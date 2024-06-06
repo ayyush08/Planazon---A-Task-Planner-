@@ -3,31 +3,40 @@ Planazon is a user-friendly and efficient task planner application built using R
 
 ## Features
 
-> - Add new tasks with a simple input field
-> - Edit existing tasks
-> - Delete tasks
-> - Mark tasks as completed
-> - Toggle the visibility of finished tasks
-> - Persist tasks using localStorage
+ - Add new tasks with a simple input field
+ - Edit existing tasks
+ - Delete tasks
+ - Mark tasks as completed
+ - Toggle the visibility of finished tasks
+ - Persist tasks using localStorage
 
 ## Installation
 
 1. Clone the repository:
 
-``` git clone https://github.com/ayyush08/PLanazon.git ```
+``` 
+git clone https://github.com/ayyush08/Planazon---A-Task-Planner-.git
+```
 
 2. Navigate to the project directory:
 
-``` cd ```
+``` 
+cd Planazon---A-Task-Planner
+```
 
 3. Install the dependencies:
 
-``` npm install ```
+``` 
+npm install
+```
 
 4. Start the development server:
-``` npm run dev ```
 
-5. Open your browser and visit http://localhost:5173 to see the application running.
+```
+npm run dev 
+```
+
+6. Open your browser and visit http://localhost:5173 to see the application running.
 
 ## Technologies Uses
 
